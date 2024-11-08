@@ -1,0 +1,22 @@
+Welcome to Balajimess!!
+
+Menu:
+
+Breakfast(5:00am - 11:00am):
+Idli
+Voda
+Dosa
+Pulihora
+Uthappam
+Puri
+Chapathi
+
+Lunch(11:00am - 5:00pm):
+Chapathi
+Plate 
+Full 
+
+Dinner(7:00pm - 12:00am):
+Chapathi
+Plate Meals
+Full Meals
